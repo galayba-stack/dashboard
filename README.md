@@ -1,4 +1,4 @@
-# Dashboard
+# ✨ Dashboard ✨
 
 Frontend dashboard application built with modern web technologies.
 Project created for learning and experimentation with Vite, TypeScript, and TailwindCSS.
