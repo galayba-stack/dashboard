@@ -43,8 +43,10 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/galayba-stack/dashboard.git
+```
+---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Created by galayba-stack
 
